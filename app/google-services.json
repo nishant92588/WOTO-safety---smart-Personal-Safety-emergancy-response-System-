@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587446752002",
+    "project_id": "smartsafety-3b323",
+    "storage_bucket": "smartsafety-3b323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587446752002:android:aaba06010a701ed63da81b",
+        "android_client_info": {
+          "package_name": "com.example.woto_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvPHcs7EWVeIn-hGYGJKNarOgCf0kyzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587446752002:android:aaba06010a701ed63da81b",
+        "android_client_info": {
+          "package_name": "wotosafety.wotosafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvPHcs7EWVeIn-hGYGJKNarOgCf0kyzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
